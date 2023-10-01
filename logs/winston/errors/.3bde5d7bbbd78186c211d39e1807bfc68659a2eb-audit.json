@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\UMS\\ums-backend\\logs\\winston\\errors\\.3bde5d7bbbd78186c211d39e1807bfc68659a2eb-audit.json",
+    "files": [
+        {
+            "date": 1696190118566,
+            "name": "E:\\UMS\\ums-backend\\logs\\winston\\errors\\UMS-2023-10-02-01-error.log",
+            "hash": "78fa6abe79d1b37dfbf9a0636d9d46c1f3f4de00e23049760e8ad7fac7330675"
+        }
+    ],
+    "hashType": "sha256"
+}
