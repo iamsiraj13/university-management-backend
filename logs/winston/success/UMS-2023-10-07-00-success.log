@@ -1,0 +1,24 @@
+{
+  message: 'Database Connected',
+  level: 'info',
+  label: 'UMS-Info',
+  timestamp: '2023-10-06T18:31:42.927Z'
+}
+{
+  message: 'Server Running Successfully',
+  level: 'info',
+  label: 'UMS-Info',
+  timestamp: '2023-10-06T18:31:42.947Z'
+}
+{
+  message: 'Database Connected',
+  level: 'info',
+  label: 'UMS-Info',
+  timestamp: '2023-10-06T18:32:15.065Z'
+}
+{
+  message: 'Server Running Successfully',
+  level: 'info',
+  label: 'UMS-Info',
+  timestamp: '2023-10-06T18:32:15.073Z'
+}
